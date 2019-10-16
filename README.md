@@ -19,3 +19,4 @@
 - MacVim
 - NVM
 - Vundle
+- Postman
