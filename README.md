@@ -20,3 +20,6 @@
 - NVM
 - Vundle
 - Postman
+- XCode command line tools
+- Docker for Mac
+- docker-sync gem
